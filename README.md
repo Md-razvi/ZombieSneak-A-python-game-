@@ -13,7 +13,7 @@ The project is currently in the **prototype / learning stage**.
 The focus so far has been on learning Panda3D and building the basic player, camera, movement, and animation systems.
 
 ### Initial State
-![Sneak In Zombie Gameplay](assets/initial_stages/Character.gif)
+![Sneak In Zombie Gameplay](game_assets\initial_stages\Character.gif)
 ### Implemented
 
 - Panda3D project setup
